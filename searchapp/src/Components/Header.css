@@ -1,0 +1,9 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+
+.div_head{
+    background-color: antiquewhite;
+    height: 100px;
+}
